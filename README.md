@@ -1,7 +1,6 @@
 ## 소개
 
 NestJS를 거쳐 Spring에 정착중인 개발자입니다.  
-거품이 좀 많은 계정을 버리고 다시 생성했습니다.  
 이전 계정: [vcho1958](https://github.com/vcho1958)  
 
 ## Moto  

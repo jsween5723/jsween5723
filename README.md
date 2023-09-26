@@ -1,3 +1,6 @@
+![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsween5723)  
+
+
 지난 계정: [@vcho1958](https://github.com/vcho1958)
 ## Moto  
 생산성을 해치지 않는 한도 내에서 질 높은 코드를 작성하자.  

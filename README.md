@@ -1,4 +1,4 @@
-![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsween5723)  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsween5723)  ](https://velog.io/@jsween5723)
 
 
 지난 계정: [@vcho1958](https://github.com/vcho1958)

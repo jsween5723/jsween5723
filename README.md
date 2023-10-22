@@ -1,4 +1,3 @@
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api?name=jsween5723)  ](https://velog.io/@jsween5723)
 
 ## Moto  
 생산성을 해치지 않는 한도 내에서 질 높은 코드를 작성하자.  
